@@ -1,0 +1,176 @@
+<html>
+<head>
+<body bgcolor="cyan">
+<title>Parrafos,Listas y marquesinas</title>
+<h1><b> Bandas de los 60´s</b></h1>
+
+<ul>
+<li>The Doors</li>
+
+<br><b>Integrantes</b>
+
+</ul>
+<ul>
+<ul type="circle">
+<li>JIM MORRISON </li>
+<li>RAY MANZAREK </li>
+<li>ROBBY KRIEGER </li>
+<li>JOHN DENSMORE</li>
+</ul>
+</ul>
+
+<ul>
+<li>The Rolling Stones</li>
+<br><b>Integrantes</b>
+</ul>
+<ul>
+<ul type="circle">
+<li>Mick Jagger </li>
+<li>Keith Richards </li>
+<li>Charlie Watts </li>
+<li>Ron Wood</li>
+</ul>
+</ul>
+</ul>
+
+
+<ul>
+
+<li>The Beatles</li>
+<br><b>Integrantes</b>
+</ul>
+
+
+<ul>
+<ul type="circle">
+<li>Paul mccarteny</li>
+
+
+<li>John Lennon </li>
+<li>George Harrison</li>
+<li>Ringo Starr </li>
+<li>Struart Suttcliffe</li>
+<li>Pete Best </li>
+<li>jimmieNicole </li>
+<li>chas newby </li>
+<li>Tommy more </li>
+<li>Norman Chapman </li>
+</ul>
+
+</ul>
+</ul>
+
+<P align="right">Página 178</p>
+
+<hr color="green">
+
+
+<h2><b> listas anidadas </b></h2>
+
+<ol> 
+<ol type=1>
+<li>Primer Semestre </li>  
+
+
+<ul>
+<ul type="square">
+<li> Computacion basica I </li>
+</ul>
+
+
+
+<ol>
+<ol type="a">
+<li>sistema operativo grafico </li>  
+<li>Internet</li>
+<li>Procesador de textos</li>
+
+
+
+<ul type="circle">
+<li> world </li>
+</ul>
+
+<li>Presentacion electronicas</li>  
+</ol>
+
+<ul>
+<ul type="circle">
+<li> PowerPoint </li>
+</ul>
+</ul>
+</ul>
+
+
+<ul type="square">
+<li> Ingles I </li>
+<li>Álgebra </li>
+</ul>
+</ul>
+
+
+<br>
+
+2.Segundo Semestre 
+<ol>
+<ol type="I">
+<li> Computacion Basica II</li>
+
+<ol type="A">
+<li>Hoja Electronica de calculo</li>
+<ul type="circle">
+<li>Excel</li>
+
+</ul>
+
+<li>Creacion de paguinas web</li>
+
+<ul type="circle">
+<li>HTML</li>
+</ul>
+</ol>
+<li>Ingles II</li>
+<li>Trigonometría</li>
+</ul>
+</ol>
+</ol>
+<br>
+3.Tercer Semestre 
+
+<ul>
+<li>Química</li>
+<li>Inglés III </li>
+<li>Física I </li>
+</ul>
+</ol>
+<P align="right">Página 179</p>
+</ul>
+
+
+<hr color="black" size=6>
+
+
+
+
+<h1><b>Listas de Definición</h1></b>
+
+<dt>
+<h4> <b> Terminos de Internet</b></dt></h4>
+
+<dt><b><u>Internet</dt></b></u>
+<b><dd>Red Mundial de computadores que están interconectadas alrededor del mundo</dd></b>
+
+<dt><b><u>Navegador</dt></b></u>
+<b><dd>Un programa que te permite ver páginas de internet. Especificamente traduce documentos escritorios en html a contenido visible por personas</dd></b>
+
+<dt><b><u>HTML</dt></b></u>
+<b><dd>Son las siglas eningles de Hypertext Markup Language (Lenguaje de mercado de hipertexto,en español),y es el lenguaje usado por los navegadores para interpretar y mostrar páguinas de internet</dd></b>
+
+<dt><b><u>WIFI</dt></b></u>
+<b><dd>Es una marca registrada que también se usa como el término utilizado para nombrar la tecnología con la que se conectan diversos dispositivos electrónicos de forma inalámbrica.</dd></b>
+
+<P align="right">Página 181</p>
+<hr color="white" size=6>
+
+<marquee direction="left" scrollamount="10"bgcolor="33ffce">Pedro Santiago Vargas Espinoza </marquee>
+<marquee direction="right"scrollamount="10"bgcolor="33ffce">2IM6</marquee>
